@@ -10,6 +10,8 @@ To get started, please follow the instructions below:
    ```bash
    git clone https://github.com/yourusername/yourproject.git
 
-2. Navigate to the project directory: cd yourproject
+2. Navigate to the project directory: 
+  cd yourproject
 
-3. Install the necessary dependencies:  npm install
+3. Install the necessary dependencies: 
+   npm install
